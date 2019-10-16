@@ -1,0 +1,11 @@
+.terraform/
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+*_override.tf
+
+# Mac OS stuff
+.DS_Store
+
+# JetBrains
+.idea

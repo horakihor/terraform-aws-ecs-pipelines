@@ -1,0 +1,6 @@
+environment                 = "dev"
+aws_access_key              = ""
+aws_secret_key              = ""
+region                      = "eu-west-2"
+network_state_bucket_name   = "ihorak-terrafrom-test"
+network_state_bucket_region = "us-west-1"

@@ -1,0 +1,18 @@
+--------------------
+ Terraform Git Repo
+--------------------
+
+* Requirements
+- terraform
+
+* Run terraform:
+
+cd <terraform environment>
+terraform init
+terraform plan
+terraform apply
+
+
+* Todo:
+    - [Code Pipeline]Change stage name Production to Deploy
+    - [Tags] Add tags everywhere where it is posible
